@@ -1,0 +1,22 @@
+Este es un ejemplo de texto con caracteres especiales codificados:
+
+=E2=80=A6 Puntos suspensivos
+=E2=80=9D Comilla doble derecha
+=E2=80=9C Comilla doble izquierda
+=E2=80=99 Comilla simple derecha
+=E2=80=98 Comilla simple izquierda
+=E2=80=93 Guión corto
+=E2=80=94 Guión largo
+
+Texto normal con =E2=80=A6 en medio de la frase.
+
+Lista con caracteres especiales:
+- Elemento con =E2=80=9D comillas =E2=80=9D
+- Otro elemento con =E2=80=93 guión =E2=80=93
+- Tercer elemento con =E2=80=99 apóstrofe =E2=80=99
+
+Tabla con caracteres:
+| Columna 1 | Columna 2 |
+|-----------|-----------|
+| =E2=80=9C Texto =E2=80=9D | =E2=80=93 Guión =E2=80=93 |
+| =E2=80=98 Texto =E2=80=99 | =E2=80=A6 Puntos =E2=80=A6 | 
